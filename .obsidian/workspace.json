@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "52f52dbdb2481f9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "afb6ec6de719ef73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a833c950e2e46ccb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7e473bfcee152a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "764870239e02a9cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5a4bb4caf8cb8db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3135963a3ccf8dcb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#privesc/domain",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8dca762312c861b1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "737fc916527a23f8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "8a060b77ac5e88b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 278.5
+  },
+  "right": {
+    "id": "677364dab5b165f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0a0a78fec009a29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7088f0691624297",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b9df09e56f26b75a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7b8586a39c56d4e6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d7b76a9c64a07e7c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Fuck.md"
+              }
+            }
+          },
+          {
+            "id": "fde8b5e604e39a8b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 393.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "cmdr:QuickAdd: Reorganize Current Note": false,
+      "cmdr:QuickAdd: Update Note Summary": false,
+      "cmdr:QuickAdd: Tag For Follow-Up": false
+    }
+  },
+  "active": "8a060b77ac5e88b7",
+  "lastOpenFiles": [
+    "Home.md",
+    "Fuck.md",
+    "images",
+    "untitled folder",
+    "Playbooks/Internal/Credential Dumping/mimikatz.md",
+    "Tutorial/Community Plugins.md",
+    "Tutorial/How.md",
+    "Tutorial/Obsidian Usage.md",
+    "Tutorial/README.md",
+    "Tutorial/Tutorial Levels.md",
+    "Tutorial/Why obsidian.md",
+    "Tutorial/Tutorial.md",
+    "Documentation/Tools/Tools.md",
+    "Documentation/Tools/External/External.md",
+    "Documentation/Tools/Infrastructure/Infrastructure.md",
+    "Playbooks/Internal/Domain Privilege Escalation/AS_REP.md",
+    "language database.md",
+    "Documentation/Tools/Accounts/OSINT/GitHub API Keys.md",
+    "Documentation/Tools/Accounts/OSINT/OSINT.md",
+    "Documentation/Tools/Accounts/Accounts.md",
+    "Documentation/Services/Services.md",
+    "Playbooks/Playbooks.md",
+    "Playbooks/Web App/Web App.md",
+    "Playbooks/Phishing/Phishing.md",
+    "Playbooks/Internal/Internal.md",
+    "Playbooks/External/External.md",
+    "Playbooks/Internal/Internal Checklist.md",
+    "README.md",
+    "templates/scripts/editsummary.js",
+    "templates/scripts/tagfollowup.js",
+    "templates/scripts/update",
+    "templates/scripts/updatesummary.js",
+    "Untitled",
+    "templates/scripts/reorganize.js",
+    "Documentation/Test Folder",
+    "Documentation/Test",
+    "images/Pasted image 20230905175346.png",
+    "images/banners/photo-1518770660439-4636190af475.png",
+    "images/Pasted image 20230816122648.png",
+    "images/Pasted image 20230813133640.png",
+    "images/Pasted image 20230813130209.png",
+    "images/Pasted image 20230813125901.png",
+    "images/Pasted image 20230809125822.png",
+    "images/Pasted image 20230813130654.png",
+    "images/Pasted image 20230806232536.png",
+    "images/Pasted image 20230805110031.png"
+  ]
+}

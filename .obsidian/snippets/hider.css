@@ -1,0 +1,8 @@
+/* hide pdfs from path list */
+div[data-path$=".pdf"] {
+  display: none;
+}
+
+.navfolder[data-content="content"] {
+  display: none;
+}

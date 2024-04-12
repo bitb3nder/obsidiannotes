@@ -1,0 +1,102 @@
+{
+  "firstRun": false,
+  "initialized": [
+    {
+      "path": "/",
+      "initialized": true
+    }
+  ],
+  "trackedProjects": [
+    "/"
+  ],
+  "checkpointList": [
+    {
+      "path": "/",
+      "date": "2024-04-12",
+      "size": 81701
+    }
+  ],
+  "activityHistory": [
+    {
+      "path": "/",
+      "size": [
+        {
+          "date": "2023-09-06",
+          "value": 11548
+        },
+        {
+          "date": "2023-09-07",
+          "value": 705
+        },
+        {
+          "date": "2023-09-08",
+          "value": 0
+        },
+        {
+          "date": "2023-09-09",
+          "value": 0
+        },
+        {
+          "date": "2023-09-10",
+          "value": 6013
+        },
+        {
+          "date": "2023-09-11",
+          "value": 23654
+        },
+        {
+          "date": "2023-09-12",
+          "value": 22957
+        },
+        {
+          "date": "2023-09-13",
+          "value": 39865
+        },
+        {
+          "date": "2023-09-14",
+          "value": 250
+        },
+        {
+          "date": "2023-09-30",
+          "value": 20502
+        },
+        {
+          "date": "2023-10-01",
+          "value": 12391
+        },
+        {
+          "date": "2023-10-02",
+          "value": 108
+        },
+        {
+          "date": "2023-10-05",
+          "value": 1557
+        },
+        {
+          "date": "2023-10-06",
+          "value": 6053
+        },
+        {
+          "date": "2023-10-07",
+          "value": 5509
+        },
+        {
+          "date": "2023-10-08",
+          "value": 847
+        },
+        {
+          "date": "2024-04-12",
+          "value": 24690
+        }
+      ]
+    }
+  ],
+  "activityColor1": "#4747A3",
+  "activityColor2": "#6969AF",
+  "activityColor3": "#9292D8",
+  "activityColor4": "#B5B5F2",
+  "textColor": "#FFFFFF",
+  "emptyColor": "#444444",
+  "cellRadius": 1,
+  "type": "yearly"
+}

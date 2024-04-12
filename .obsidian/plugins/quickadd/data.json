@@ -1,0 +1,322 @@
+{
+  "choices": [
+    {
+      "id": "b0f9e7b0-b1e4-47e2-8378-f7f10b2257b7",
+      "name": "Create New Service Category",
+      "type": "Macro",
+      "command": true,
+      "macroId": "0d86230b-e0bb-4f5e-98a6-4dd68bba7c63"
+    },
+    {
+      "id": "f85cbbdb-c583-4f4b-867a-43f86a1778cb",
+      "name": "newdefault",
+      "type": "Template",
+      "command": true,
+      "templatePath": "templates/default.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "968f8578-5ed1-48a5-8699-14a69d0784fa",
+      "name": "newplay",
+      "type": "Template",
+      "command": true,
+      "templatePath": "templates/newplay.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "4b6c7937-bcfa-470b-8cd3-9e4a30738c3f",
+      "name": "newtool",
+      "type": "Template",
+      "command": true,
+      "templatePath": "templates/newtool.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "e5f5119e-0305-4c8a-bac1-8b3e767cb453",
+      "name": "newprotocol",
+      "type": "Template",
+      "command": true,
+      "templatePath": "templates/newprotocol.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "deb61868-4d8d-4032-8f66-6180bcbdfe69",
+      "name": "newresearch",
+      "type": "Template",
+      "command": true,
+      "templatePath": "templates/newresearch.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "1e00fbbb-b64f-4aef-a1ba-aa2ed776021f",
+      "name": "newwin32",
+      "type": "Template",
+      "command": true,
+      "templatePath": "templates/newwin32.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Documentation/Win32 API"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "ac457949-03eb-4bdb-b6c2-b79781d35a8a",
+      "name": "Mark Completed",
+      "type": "Macro",
+      "command": true,
+      "macroId": "b53688cc-61d5-4e31-906a-66915bec0925"
+    },
+    {
+      "id": "ac457949-03eb-4bdb-b6c2-b79781d35a8b",
+      "name": "Create New Folder",
+      "type": "Macro",
+      "command": true,
+      "macroId": "b53688cc-61d5-4e31-906a-66915bec0926"
+    },
+    {
+      "id": "ac457949-03eb-4bdb-b6c2-b79781d35a8c",
+      "name": "Reorganize Current Note",
+      "type": "Macro",
+      "command": true,
+      "macroId": "b53688cc-61d5-4e31-906a-66915bec0927"
+    },
+    {
+      "id": "ac457949-03eb-4bdb-b6c2-b79781d35a8d",
+      "name": "Update Note Summary",
+      "type": "Macro",
+      "command": true,
+      "macroId": "b53688cc-61d5-4e31-906a-66915bec0928"
+    },
+    {
+      "id": "ac457949-03eb-4bdb-b6c2-b79781d35a8e",
+      "name": "Tag For Follow-Up",
+      "type": "Macro",
+      "command": true,
+      "macroId": "b53688cc-61d5-4e31-906a-66915bec0929"
+    }
+  ],
+  "macros": [
+    {
+      "name": "Mark Completed",
+      "id": "b53688cc-61d5-4e31-906a-66915bec0925",
+      "commands": [
+        {
+          "name": "mark-completed",
+          "type": "UserScript",
+          "id": "b9f1c2c3-3951-44dc-beb8-751eee444e0c",
+          "path": "templates/scripts/completer.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Create New Folder",
+      "id": "b53688cc-61d5-4e31-906a-66915bec0926",
+      "commands": [
+        {
+          "name": "create-new-folder",
+          "type": "UserScript",
+          "id": "b9f1c2c3-3951-44dc-beb8-751eee444e0d",
+          "path": "templates/scripts/newfolder.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Reorganize Current Note",
+      "id": "b53688cc-61d5-4e31-906a-66915bec0927",
+      "commands": [
+        {
+          "name": "reorganize",
+          "type": "UserScript",
+          "id": "b9f1c2c3-3951-44dc-beb8-751eee444e0e",
+          "path": "templates/scripts/reorganize.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Update Note Summary",
+      "id": "b53688cc-61d5-4e31-906a-66915bec0928",
+      "commands": [
+        {
+          "name": "update-summary",
+          "type": "UserScript",
+          "id": "b9f1c2c3-3951-44dc-beb8-751eee444e0f",
+          "path": "templates/scripts/updatesummary.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Tag For Follow-Up",
+      "id": "b53688cc-61d5-4e31-906a-66915bec0929",
+      "commands": [
+        {
+          "name": "tag-followup",
+          "type": "UserScript",
+          "id": "b9f1c2c3-3951-44dc-beb8-751eee444e0g",
+          "path": "templates/scripts/tagfollowup.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Create New Service Category",
+      "id": "0d86230b-e0bb-4f5e-98a6-4dd68bba7c63",
+      "commands": [
+        {
+          "name": "updateservicelist",
+          "type": "UserScript",
+          "id": "f0574c7b-609a-47ec-b883-b6aa9a2986e1",
+          "path": "templates/scripts/updateservicelist.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "",
+  "announceUpdates": false,
+  "version": "1.2.1",
+  "disableOnlineFeatures": true,
+  "ai": {
+    "OpenAIApiKey": "",
+    "defaultModel": "Ask me",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "promptTemplatesFolderPath": "",
+    "showAssistant": true
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true
+  }
+}

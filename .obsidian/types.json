@@ -1,0 +1,13 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "todo": "checkbox",
+    "tst": "text",
+    "number": "number",
+    "🧠": "number",
+    "link": "text",
+    "priority": "text"
+  }
+}

@@ -1,0 +1,42 @@
+.rounded-button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 30px;
+    background-color: #2a2a2a;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.rounded-button:hover {
+    background-color: #1e1e1e;
+}
+
+.large {
+    padding: 20px 40px; /* Adjust the padding to control button size */
+    background-color: #333; /* Set the background color to grey */
+    color: #fff; /* Set the text color to white */
+    border: none; /* Remove the border */
+    border-radius: 8px; /* Add rounded corners */
+    font-size: 16px; /* Adjust the font size */
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Smooth color transition on hover */
+
+    /* Optional: Add box-shadow for a prominent effect */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.large:hover {
+    background-color: #555; /* Change color to a lighter grey on hover */
+}
+
+.homepage .callout-content {
+    text-align:center;
+}
+
+.tinyline .cm-contentContainer :empty{
+    line-height: 0.5 !important;
+}

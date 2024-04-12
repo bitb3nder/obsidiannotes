@@ -1,0 +1,48 @@
+.callout[data-callout="play-list"] {
+	--callout-color: var(--callout-tip);
+	--callout-icon: lucide-terminal;
+	/*--icon-size: 30px;*/
+	background-color: rgba(var(--callout-color), 0.025);	
+}
+
+.callout[data-callout="play-list"] .callout-title {
+	/*font-size: 30px;*/
+	height: 23.39px;
+	line-height: 23.39px;
+}
+
+.callout[data-callout="play-list"] .callout-content {
+	--icon-size: 18px;
+	/*font-size: 18px;*/
+}
+
+.callout[data-callout="play-list"] .callout-content .callout {
+	margin: 18px;
+}
+
+.callout[data-callout="play-list"] .callout-content .callout-title-inner{
+	/*font-size: 18px;*/
+}
+
+.callout[data-callout="play-list"] .callout-content .internal-link {
+	color: var(--callout-tip);
+}
+
+
+/* DATA VIEW TABLES */
+
+.table-view-table .table-view-tr-header{
+	/*font-size: 18px;*/
+}
+
+.table-view-table tr:nth-child(even) {
+	background-color: var(--background-secondary);
+}
+
+.table-view-table tr:nth-child(even) td {
+	/*font-size: 18px*/
+}
+
+.table-view-table tr:nth-child(odd) td {
+	/*font-size: 18px*/
+}

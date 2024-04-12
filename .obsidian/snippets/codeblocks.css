@@ -1,0 +1,17 @@
+/* makes the code blocks brighter and inline code more distinquished */
+
+.markdown-source-view.mod-cm6 .cm-line.HyperMD-codeblock {
+    padding-left: var(--size-4-4);
+    color: var(--code-normal);
+    filter:  brightness(1.3);
+}
+
+.cm-s-obsidian span.cm-inline-code:not(.cm-formatting):not(.cm-hmd-indented-code):not(.obsidian-search-match-highlight), .markdown-preview-view code {
+    overflow-wrap: break-word;
+    background-color: #242424;
+    word-wrap: break-word;
+    padding: 0 5px;
+    border-radius: 0.3rem;
+    color: var(--code-normal) !important;
+    filter: brightness(1.3);
+}

@@ -1,0 +1,14 @@
+{
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "callouts",
+    "headermod",
+    "hider",
+    "tables",
+    "buttons",
+    "readable-line-width",
+    "custom_callouts"
+  ],
+  "baseFontSize": 15,
+  "theme": "obsidian"
+}

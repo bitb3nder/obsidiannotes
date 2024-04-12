@@ -1,0 +1,11 @@
+/* prettier callouts? */
+
+.callout-title-inner {
+  font-weight: 400;
+  color: var(--callout-title-color);
+  /*filter: bightness();*/
+}
+
+.callout {
+  background-color: rgba(var(--callout-color), 0.1);
+}

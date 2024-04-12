@@ -1,0 +1,9 @@
+{
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "images",
+  "promptDelete": false,
+  "focusNewTab": true,
+  "showFrontmatter": false,
+  "propertiesInDocument": "hidden",
+  "readableLineLength": true
+}

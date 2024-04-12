@@ -1,0 +1,123 @@
+/* --------------------------------------------   */
+/* Make nav bar                                   */
+/* --------------------------------------------   */
+.navheader {
+  display: flex;
+  width: 100%;
+  list-style: none;
+  padding: 0;
+  background-color: #2a2a2a;
+  border-radius: 10px;
+  overflow: hidden;
+  border: 1px solid #b3b3b3;
+  justify-content: space-between;
+  font-weight: bold;
+}
+
+.navheader ul {
+  flex-grow: 1;
+  text-align: center;
+  border-right: 1px solid #b3b3b3;
+  padding-left: 0;
+  flex: 0 0 20%;
+  max-width: 20%;
+  box-sizing: border-box;
+}
+
+.navheader ul:last-child {
+  border-right: none; /* Remove border from the last item */
+}
+
+.navheader a {
+  display: block;
+  text-decoration: none;
+  color: #fff;
+  font-size: 15px; /* Add units (e.g., px) */
+  padding: 10px 10px;
+  transition: background-color 0.3s;
+  border-radius: 5px;
+}
+
+.navheader a:hover {
+  background-color: #5a5a5a;
+  color: #fff;
+}
+
+/* --------------------------------------------   */
+/* Make resource table                            */
+/* --------------------------------------------   */
+.resourceTable table {
+	min-width: 100%;
+}
+
+.resourceTable thead tr th:first-child,
+.resourceTable tbody tr td:first-child {
+	width: 8em;
+	min-width: 8em;
+	max-width: 40%;
+	word-break: break-all;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+.resourceTable th:nth-child(2) {
+    padding: 9px 20px;
+}
+.resourceTable td:nth-child(2),
+.resourceTable tr > td:last-of-type { 
+	white-space: nowrap;
+	overflow: hidden;
+  	text-overflow: ellipsis;
+  	max-width: 17em;
+}
+
+.resourceTable th,
+.resourceTable td {
+	border: 0 none;
+}
+.resourceTable thead {
+	background-color: #2a2a2a;
+}
+.resourceTable th {	
+	font-size:15px;
+	border-bottom:1px solid #cccccc;
+	padding: 14px 15px;
+}
+.resourceTable td {	
+	font-size:15px;
+	line-height:1.5;
+	padding: 5px 15px;
+	background-color: dcddde;
+}
+.resourceTable table > tbody > tr {
+	border-bottom: 1px solid #cccccc;
+}
+.resourceTable table > tbody > tr:last-child > td {
+	border-bottom: 2px solid #b3b3b3;
+}
+
+.resourceTable table {
+    border-collapse: separate;
+    border: solid #b3b3b3 1px;
+    border-radius: 6px;
+    border-spacing: 0px;
+}
+.resourceTable table > tbody > tr > td {
+	border-bottom: 1px solid #ccccccbb;
+}
+.resourceTable table > tbody > tr:last-child > td {
+	border-bottom: thin #ccccccbb;
+}
+.resourceTable table th:first-of-type{
+	border-top-left-radius: 6px;
+}
+.resourceTable table th:last-of-type{
+	border-top-right-radius: 6px;
+}
+.resourceTable table tr:last-child td:first-child {
+    border-bottom-left-radius: 5px;
+}
+.resourceTable table tr:last-child td:last-child {
+    border-bottom-right-radius: 5px;
+}
+/* --------------------------------------------   */

@@ -1,0 +1,48 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "quickadd:choice:ac457949-03eb-4bdb-b6c2-b79781d35a8c",
+      "icon": "folder-minus",
+      "name": "QuickAdd: Reorganize Current Note",
+      "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:ac457949-03eb-4bdb-b6c2-b79781d35a8d",
+      "icon": "list-plus",
+      "name": "QuickAdd: Update Note Summary",
+      "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:ac457949-03eb-4bdb-b6c2-b79781d35a8e",
+      "icon": "alert-triangle",
+      "name": "QuickAdd: Tag For Follow-Up",
+      "mode": "any"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}
